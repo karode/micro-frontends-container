@@ -9,9 +9,7 @@ microfrontend to render onto the page.
 
 # Getting started
 
-1. Clone the repo
-2. `yarn install`
-3. `yarn start`
+[TBD]
 
 You can run the container on its own, but for it to actually do anything you'll
 also need to be running:
@@ -22,4 +20,4 @@ also need to be running:
 
 # Run the tests
 
-- `yarn test`
+[TBD]
